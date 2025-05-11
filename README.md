@@ -20,7 +20,41 @@ Wireframes are most valuable during the early stages of the design process, afte
 
 ## Types of Wireframes
 
-1. **Low-fidelity wireframes** - Simple sketches, often hand-drawn
-2. **High-fidelity wireframes** - Detailed mockups incorporating limited visual elements
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are the most basic type of wireframing. They are usually basic representations of the user interface that focus on layout and structure without any visual design elements. It is so simplistic that paper and pen will suffice as a way to represent your ideas. 
 
-By investing time in wireframing, design teams can establish a solid foundation for creating intuitive, user-friendly digital products.
+**Characteristics:**
+- Hand-drawn sketches or simple digital outlines
+- Use of placeholders for content (e.g., lorem ipsum text, image boxes)
+- Basic shapes such as squares, triangles, circles and lines are used to represent UI elements
+- No color, typography, or detailed visual elements
+- Quick to create and easy to modify
+
+**When to use:**
+- Early ideation and brainstorming sessions
+- Rapid prototyping and exploring multiple concepts
+- Initial stakeholder meetings to gather feedback on direction
+- When focusing purely on information architecture and user flow
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are detailed representations that begin to incorporate visual design elements while still focusing primarily on structure and functionality. Visual markers amd branding signifiers like colors, graphics, and font style are included to make them look more realistic. A designer might even choose to add in images at this stage. 
+
+**Characteristics:**
+- Precise layout with accurate spacing and proportions
+- Some visual design elements like typography, color, and imagery
+- Realistic content instead of placeholders
+- Interactive elements may be included
+- More detailed annotations about functionality
+
+**When to use:**
+- Later in the design process, after validating structure
+- When communicating final designs to stakeholders
+- As a transition step between wireframing and visual design
+- For advanced user testing with near-final layouts
+
+## Wireframe Analysis
+
+Figma Analysis[https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw]
+
+From the analysis, we can conclude the above the figma design is a high fidelity wireframe.
+Visual markers and branding signifiers can be clearly ascertained from the wireframe making it clear to choose high fidelity as its type.
