@@ -56,5 +56,21 @@ High-fidelity wireframes are detailed representations that begin to incorporate 
 
 [Figma Project](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw)
 
-From the analysis, we can conclude the above the figma design is a high fidelity wireframe.
+From an analysis of the project above, we can conclude the above the figma design is a high fidelity wireframe.
 Visual markers and branding signifiers can be clearly ascertained from the wireframe making it clear to choose high fidelity as its type.
+
+## Popular Wireframing Tools
+There are numerous tools available to help designers create effective wireframes. Among these, Figma stands out as a particularly powerful option.
+
+**Figma**
+Figma is a cloud-based design tool that has become increasingly popular for wireframing and UI design.
+Key Features:
+
+- Real-time collaboration allowing multiple team members to work simultaneously
+- Browser-based platform that works across operating systems
+- Robust component system for creating reusable design elements
+- Powerful prototyping capabilities to create interactive wireframes
+- Extensive plugin ecosystem to extend functionality
+- Free tier available for individuals and small teams
+
+Figma's intuitive interface and collaborative features make it an excellent choice for teams working on wireframes, especially those with remote members or stakeholders who need to provide direct feedback on designs.
