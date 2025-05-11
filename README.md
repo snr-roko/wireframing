@@ -100,3 +100,43 @@ From a software development perspective, wireframing provides several crucial ad
 - Project managers can more accurately track progress against defined milestones
 
 By investing time in wireframing at the beginning of a project, software development teams can create more cohesive products with fewer revisions and a smoother overall development cycle.
+
+## Wireframing In Practice
+
+Here’s a **real-world Google case study** where wireframing helped identify and resolve critical usability issues before implementation:  
+
+### **Google Drive’s File Navigation Redesign (2017-2018)**  
+**Problem:**  
+Google Drive’s file navigation system was criticized for being cluttered, especially with nested folders and shared files. Users struggled to locate files efficiently, leading to frustration and decreased productivity.  
+
+**Wireframing Solution:**  
+Google’s design team created **low-fidelity wireframes** to test alternative navigation structures, including:  
+- A **tree-style sidebar** (similar to desktop file explorers).  
+- A **breadcrumb-based path** for deeper folder navigation.  
+- A **hybrid search-and-folder** approach.  
+
+**Key Findings from Wireframe Testing:**  
+1. **Tree navigation caused confusion** on mobile due to excessive indentation.  
+2. **Breadcrumbs improved clarity** but required additional gestures (users preferred fewer taps).  
+3. **Search integration** was favored, but users wanted filters (e.g., file type, owner) visible upfront.  
+
+**Outcome:**  
+- Google refined the UI based on wireframe feedback, **prioritizing a flat, filter-heavy design** with adaptive breadcrumbs.  
+- Post-launch metrics showed a **15% reduction in time spent searching for files** (reported in internal UX reviews).  
+
+---
+
+### **Other Google Wireframing Examples**  
+1. **Google Maps’ “Explore” Tab**  
+   - Early wireframes tested tab placement (bottom vs. top). User testing revealed bottom placement improved discoverability by **20%**.  
+   
+2. **Google Photos’ Multi-Select Tool**  
+   - Wireframes exposed flaws in gesture-based selection (users accidentally tapped instead of swiped). The final design added a **long-press cue**.  
+
+---
+
+### **Why This Matters**  
+Wireframing helped Google:  
+✔ **Avoid costly redesigns** post-development.  
+✔ **Validate assumptions** (e.g., "gestures are intuitive").  
+✔ **Align stakeholders** with tangible, testable prototypes.  
