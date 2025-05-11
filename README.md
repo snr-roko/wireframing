@@ -54,7 +54,7 @@ High-fidelity wireframes are detailed representations that begin to incorporate 
 
 ## Wireframe Analysis
 
-[Figma Analysis Project(https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw)]
+[Figma Project](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw)
 
 From the analysis, we can conclude the above the figma design is a high fidelity wireframe.
 Visual markers and branding signifiers can be clearly ascertained from the wireframe making it clear to choose high fidelity as its type.
